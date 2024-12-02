@@ -1,10 +1,13 @@
-Mastercard Stock History - Exploratory Data Analysis
+MASTERCARD STOCK HOSTORY- EXPLORATORY DATA ANALYSIS
+
 ![OIP (5)](https://github.com/user-attachments/assets/edc45990-0372-4f0b-a6bb-665f480d6202)
 
 Description
+
 This project analyzes the historical stock data of Mastercard to uncover trends, patterns, and insights. It focuses on performing Exploratory Data Analysis (EDA) to understand the stock's behavior over time and identify key characteristics related to price fluctuations, trading volume, dividends, and stock splits.
 
 Dataset Overview
+
 Total Records: 3872
 Date Range: From the earliest recorded date (2006-05-25).
 
@@ -37,7 +40,9 @@ Heatmaps to identify correlations.
 Event markers (e.g., stock splits and dividends) on price trend charts.
 
 Dependencies:
+
 Python Libraries:
+
 pandas: For data manipulation.
 matplotlib/seaborn: For visualizations.
 numpy: For numerical operations.
