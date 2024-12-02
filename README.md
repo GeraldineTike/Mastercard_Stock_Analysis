@@ -43,7 +43,7 @@ Dependencies:
 
 Python Libraries:
 
-pandas: For data manipulation.
-matplotlib/seaborn: For visualizations.
-numpy: For numerical operations.
-datetime: For handling date fields.
+pandas: For data manipulation.  
+matplotlib/seaborn: For visualizations.   
+numpy: For numerical operations.     
+datetime: For handling date fields.       
