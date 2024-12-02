@@ -8,39 +8,38 @@ This project analyzes the historical stock data of Mastercard to uncover trends,
 
 Dataset Overview
 
-Total Records: 3872
-Date Range: From the earliest recorded date (2006-05-25).
+Total Records: 3872   
+Date Range: From the earliest recorded date (2006-05-25).   
 
 Columns
-Date: Trading day.
-Open: Price at market opening.
-High: Highest price reached during the day.
-Low: Lowest price reached during the day.
-Close: Price at market closing.
-Volume: Total shares traded.
-Dividends: Dividend payouts on specific dates.
-Stock Splits: Information about stock split events.
+Date: Trading day.    
+Open: Price at market opening.    
+High: Highest price reached during the day.     
+Low: Lowest price reached during the day.     
+Close: Price at market closing.     
+Volume: Total shares traded.    
+Dividends: Dividend payouts on specific dates.    
+Stock Splits: Information about stock split events.      
 
 Objectives
 
-1. Preprocessing:
-Ensure the Date column is properly formatted as a datetime object.
-Handle outliers or anomalous values in numeric fields.
+1. Preprocessing:    
+Ensure the Date column is properly formatted as a datetime object.     
+Handle outliers or anomalous values in numeric fields.     
 
-2. Analysis:
-Trend analysis of opening and closing prices over time.
-Correlation between Volume, High, Low, and Close.
-Impact of dividends and stock splits on trading volume and prices.
-Seasonal patterns or periodic fluctuations in stock performance.
+2. Analysis:      
+Trend analysis of opening and closing prices over time.     
+Correlation between Volume, High, Low, and Close.     
+Impact of dividends and stock splits on trading volume and prices.    
+Seasonal patterns or periodic fluctuations in stock performance.     
 
-3.Visualizations:
-Line charts for price trends.
-Histograms and box plots for price and volume distributions.
-Heatmaps to identify correlations.
-Event markers (e.g., stock splits and dividends) on price trend charts.
+3.Visualizations:    
+Line charts for price trends.     
+Histograms and box plots for price and volume distributions.    
+Heatmaps to identify correlations.      
+Event markers (e.g., stock splits and dividends) on price trend charts.      
 
-Dependencies:
-
+Dependencies:          
 Python Libraries:
 
 pandas: For data manipulation.  
